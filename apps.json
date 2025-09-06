@@ -5,31 +5,55 @@
       "apps": [
         {
           "name": "微信",
-          "icon": "https://example.com/wechat.png",
+          "icon": "https://img.icons8.com/color/48/000000/wechat.png",
           "rating": 4.5,
           "downloads": "10亿+",
           "category": "社交",
           "screenshots": [
-            "https://example.com/wechat_screen1.png",
-            "https://example.com/wechat_screen2.png"
+            "https://images.unsplash.com/photo-1611926653458-2152e35361ab?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=800&fit=crop"
           ],
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/wechat.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wechat.apk"
         },
         {
           "name": "支付宝",
-          "icon": "https://example.com/alipay.png",
+          "icon": "https://img.icons8.com/color/48/000000/alipay.png",
           "rating": 4.6,
           "downloads": "8亿+",
           "category": "金融",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/alipay.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/alipay.apk"
         },
         {
           "name": "抖音",
-          "icon": "https://example.com/douyin.png",
+          "icon": "https://img.icons8.com/color/48/000000/tiktok.png",
           "rating": 4.2,
           "downloads": "6亿+",
           "category": "娱乐",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/douyin.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/douyin.apk"
+        },
+        {
+          "name": "淘宝",
+          "icon": "https://img.icons8.com/color/48/000000/taobao.png",
+          "rating": 4.4,
+          "downloads": "5亿+",
+          "category": "购物",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/taobao.apk"
+        },
+        {
+          "name": "QQ",
+          "icon": "https://img.icons8.com/color/48/000000/qq.png",
+          "rating": 4.3,
+          "downloads": "5亿+",
+          "category": "社交",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/qq.apk"
+        },
+        {
+          "name": "京东",
+          "icon": "https://img.icons8.com/color/48/000000/shopping-bag.png",
+          "rating": 4.5,
+          "downloads": "3亿+",
+          "category": "购物",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/jd.apk"
         }
       ]
     },
@@ -38,19 +62,35 @@
       "apps": [
         {
           "name": "小红书",
-          "icon": "https://example.com/xiaohongshu.png",
+          "icon": "https://img.icons8.com/color/48/000000/pinterest.png",
           "rating": 4.4,
           "downloads": "2亿+",
           "category": "社交",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/xiaohongshu.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/xiaohongshu.apk"
         },
         {
           "name": "美团",
-          "icon": "https://example.com/meituan.png",
+          "icon": "https://img.icons8.com/color/48/000000/food-delivery.png",
           "rating": 4.3,
           "downloads": "3亿+",
           "category": "生活",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/meituan.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/meituan.apk"
+        },
+        {
+          "name": "网易云音乐",
+          "icon": "https://img.icons8.com/color/48/000000/music-note.png",
+          "rating": 4.6,
+          "downloads": "1亿+",
+          "category": "音乐",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/netease_music.apk"
+        },
+        {
+          "name": "知乎",
+          "icon": "https://img.icons8.com/color/48/000000/quora.png",
+          "rating": 4.2,
+          "downloads": "8000万+",
+          "category": "社区",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/zhihu.apk"
         }
       ]
     },
@@ -59,23 +99,47 @@
       "apps": [
         {
           "name": "王者荣耀",
-          "icon": "https://example.com/wzry.png",
+          "icon": "https://img.icons8.com/color/48/000000/game-controller.png",
           "rating": 4.5,
           "downloads": "5亿+",
           "category": "游戏",
           "screenshots": [
-            "https://example.com/wzry_screen1.png",
-            "https://example.com/wzry_screen2.png"
+            "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=400&h=800&fit=crop"
           ],
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/wzry.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wzry.apk"
         },
         {
           "name": "原神",
-          "icon": "https://example.com/ys.png",
+          "icon": "https://img.icons8.com/color/48/000000/anime.png",
           "rating": 4.6,
           "downloads": "2亿+",
           "category": "游戏",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/ys.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/ys.apk"
+        },
+        {
+          "name": "和平精英",
+          "icon": "https://img.icons8.com/color/48/000000/sniper-rifle.png",
+          "rating": 4.3,
+          "downloads": "3亿+",
+          "category": "游戏",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/hpjy.apk"
+        },
+        {
+          "name": "崩坏：星穹铁道",
+          "icon": "https://img.icons8.com/color/48/000000/train.png",
+          "rating": 4.4,
+          "downloads": "1亿+",
+          "category": "游戏",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/bhxq.apk"
+        },
+        {
+          "name": "英雄联盟手游",
+          "icon": "https://img.icons8.com/color/48/000000/league-of-legends.png",
+          "rating": 4.2,
+          "downloads": "2亿+",
+          "category": "游戏",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/lolm.apk"
         }
       ]
     },
@@ -84,19 +148,64 @@
       "apps": [
         {
           "name": "三体",
-          "icon": "https://example.com/santi.png",
+          "icon": "https://img.icons8.com/color/48/000000/book.png",
           "rating": 4.8,
           "downloads": "100万+",
           "category": "图书",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/santi.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/santi.apk"
         },
         {
           "name": "活着",
-          "icon": "https://example.com/huozhe.png",
+          "icon": "https://img.icons8.com/color/48/000000/open-book.png",
           "rating": 4.7,
           "downloads": "80万+",
           "category": "图书",
-          "downloadUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/huozhe.apk"
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/huozhe.apk"
+        },
+        {
+          "name": "百年孤独",
+          "icon": "https://img.icons8.com/color/48/000000/library.png",
+          "rating": 4.6,
+          "downloads": "60万+",
+          "category": "图书",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/bngd.apk"
+        },
+        {
+          "name": "人类简史",
+          "icon": "https://img.icons8.com/color/48/000000/history.png",
+          "rating": 4.5,
+          "downloads": "50万+",
+          "category": "图书",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/rljs.apk"
+        }
+      ]
+    },
+    {
+      "title": "实用工具",
+      "apps": [
+        {
+          "name": "WPS Office",
+          "icon": "https://img.icons8.com/color/48/000000/microsoft-word.png",
+          "rating": 4.5,
+          "downloads": "2亿+",
+          "category": "办公",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wps.apk"
+        },
+        {
+          "name": "百度地图",
+          "icon": "https://img.icons8.com/color/48/000000/map.png",
+          "rating": 4.3,
+          "downloads": "3亿+",
+          "category": "导航",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/baidu_map.apk"
+        },
+        {
+          "name": "腾讯视频",
+          "icon": "https://img.icons8.com/color/48/000000/video.png",
+          "rating": 4.2,
+          "downloads": "2亿+",
+          "category": "视频",
+          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/tencent_video.apk"
         }
       ]
     }

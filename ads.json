@@ -1,0 +1,32 @@
+{
+  "ads": [
+    {
+      "id": "ad_banner_1",
+      "imageUrl": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=800&h=400&fit=crop",
+      "targetUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/promo_app.apk",
+      "type": "banner",
+      "position": "homepage_top"
+    },
+    {
+      "id": "ad_banner_2",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=400&fit=crop",
+      "targetUrl": "https://example.com/special_offer",
+      "type": "banner",
+      "position": "homepage_top"
+    },
+    {
+      "id": "ad_banner_3",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop",
+      "targetUrl": "https://github.com/tingstore/MyAppStoreData/releases/download/v1.0.0/vip_app.apk",
+      "type": "banner",
+      "position": "homepage_top"
+    },
+    {
+      "id": "ad_native_1",
+      "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800&h=400&fit=crop",
+      "targetUrl": "https://example.com/game_promo",
+      "type": "native",
+      "position": "between_sections"
+    }
+  ]
+}

@@ -4,55 +4,99 @@
       "title": "热门推荐",
       "apps": [
         {
+          "id": 1,
           "name": "微信",
+          "developer": "Tencent Technology",
           "icon": "https://img.icons8.com/color/48/000000/wechat.png",
-          "rating": 4.5,
+          "rating": 4.8,
           "downloads": "10亿+",
           "category": "社交",
+          "description": "微信，是一个生活方式。超过十亿人使用的手机应用，支持发送语音短信、视频、图片和文字，可以群聊，仅耗少量流量，适合大部分智能手机。\n\n主要功能：\n• 可以发语音、文字消息、表情、图片、视频\n• 支持多人群聊\n• 支持查看所在位置附近使用微信的人\n• 支持腾讯微博、QQ邮箱、漂流瓶、语音记事本等插件功能",
           "screenshots": [
             "https://images.unsplash.com/photo-1611926653458-2152e35361ab?w=400&h=800&fit=crop",
-            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=800&fit=crop"
+            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=800&fit=crop"
           ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wechat.apk"
         },
         {
+          "id": 2,
           "name": "支付宝",
+          "developer": "Ant Group",
           "icon": "https://img.icons8.com/color/48/000000/alipay.png",
-          "rating": 4.6,
+          "rating": 4.7,
           "downloads": "8亿+",
           "category": "金融",
+          "description": "支付宝，全球领先的独立第三方支付平台，致力于为广大用户提供安全快速的电子支付/网上支付/安全支付/手机支付体验，及转账收款/水电煤缴费/信用卡还款/AA收款等生活服务应用。\n\n核心功能：\n• 便民生活：水电煤缴费、话费充值、交通出行\n• 金融理财：余额宝、基金、保险、借呗、花呗\n• 购物娱乐：淘宝购物、电影票、外卖订餐\n• 政务服务：社保查询、公积金、税务服务",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/alipay.apk"
         },
         {
+          "id": 3,
           "name": "抖音",
+          "developer": "ByteDance",
           "icon": "https://img.icons8.com/color/48/000000/tiktok.png",
-          "rating": 4.2,
+          "rating": 4.5,
           "downloads": "6亿+",
           "category": "娱乐",
+          "description": "抖音，记录美好生活！在这里，每个人都是生活的导演。看见更大的世界，记录真实的自己。\n\n精彩功能：\n• 超清画质：支持4K高清视频拍摄和播放\n• 智能特效：AI美颜、滤镜、贴纸让你更美\n• 音乐库：海量正版音乐，热门BGM随意用\n• 创作工具：剪辑、配音、字幕一应俱全\n• 个性推荐：智能算法为你推荐感兴趣的内容",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1534951009808-766178b47a4f?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/douyin.apk"
         },
         {
+          "id": 4,
           "name": "淘宝",
+          "developer": "Alibaba Group",
           "icon": "https://img.icons8.com/color/48/000000/taobao.png",
           "rating": 4.4,
           "downloads": "5亿+",
           "category": "购物",
+          "description": "淘宝网是亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值等数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄等消费者保障服务。\n\n主要特点：\n• 海量商品：数亿商品任你选择\n• 安全保障：支付宝担保交易，先收货后付款\n• 优质服务：7天无理由退货，破损包赔\n• 便捷支付：支持多种支付方式",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/taobao.apk"
         },
         {
+          "id": 5,
           "name": "QQ",
+          "developer": "Tencent Technology",
           "icon": "https://img.icons8.com/color/48/000000/qq.png",
           "rating": 4.3,
           "downloads": "5亿+",
           "category": "社交",
+          "description": "QQ是腾讯QQ的官方版本，支持在线聊天、视频通话、点对点断点续传文件、共享文件、网络硬盘、自定义面板、QQ邮箱等多种功能，并可与多种通讯终端相通。\n\n核心功能：\n• 即时通讯：文字、语音、视频聊天\n• 文件传输：支持断点续传，传输稳定\n• 群组聊天：支持多人群聊，方便沟通\n• 个性装扮：丰富的主题和表情包\n• QQ空间：分享生活动态，记录美好时光",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/qq.apk"
         },
         {
+          "id": 6,
           "name": "京东",
+          "developer": "JD.COM",
           "icon": "https://img.icons8.com/color/48/000000/shopping-bag.png",
           "rating": 4.5,
           "downloads": "3亿+",
           "category": "购物",
+          "description": "京东APP是集团旗下一款移动购物应用，具有商品丰富、品质保证、配送快速、服务贴心等特色，为用户提供愉悦的手机购物体验。\n\n特色服务：\n• 正品保证：厂商直供，品质保障\n• 快速配送：211限时达，次日达服务\n• 金融服务：白条分期，理财产品\n• 售后保障：7天无理由退货，30天换货\n• 生活服务：充值缴费，票务预订",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/jd.apk"
         }
       ]
@@ -61,35 +105,67 @@
       "title": "新品上架",
       "apps": [
         {
+          "id": 7,
           "name": "小红书",
+          "developer": "Xingin",
           "icon": "https://img.icons8.com/color/48/000000/pinterest.png",
           "rating": 4.4,
           "downloads": "2亿+",
           "category": "社交",
+          "description": "小红书是年轻人的生活方式平台，在这里每月有超过1亿人在分享生活经验，发现美好、真实、多元的世界，找到你想要的生活。\n\n平台特色：\n• 生活分享：美妆、穿搭、旅行、美食等生活笔记\n• 购物种草：真实用户评价，帮你发现好物\n• 视频内容：短视频记录生活美好瞬间\n• 社区互动：关注喜欢的博主，互动交流\n• 本地生活：发现周边好去处，探索城市生活",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1534951009808-766178b47a4f?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/xiaohongshu.apk"
         },
         {
+          "id": 8,
           "name": "美团",
+          "developer": "Meituan",
           "icon": "https://img.icons8.com/color/48/000000/food-delivery.png",
           "rating": 4.3,
           "downloads": "3亿+",
           "category": "生活",
+          "description": "美团，让生活更美好。美团是中国领先的生活服务电子商务平台，以\"Eat Better, Live Better\"为使命，践行\"帮大家吃得更好，生活更好\"的公司理念。\n\n服务涵盖：\n• 外卖订餐：海量美食，30分钟送达\n• 到店消费：餐厅、电影、KTV等优惠团购\n• 出行服务：打车、共享单车、酒店预订\n• 生活服务：家政、维修、教育等上门服务\n• 旅游出行：门票、酒店、机票一站式服务",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/meituan.apk"
         },
         {
+          "id": 9,
           "name": "网易云音乐",
+          "developer": "NetEase",
           "icon": "https://img.icons8.com/color/48/000000/music-note.png",
           "rating": 4.6,
           "downloads": "1亿+",
           "category": "音乐",
+          "description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。\n\n特色功能：\n• 个性化推荐：每日歌曲推荐，私人FM\n• 高品质音乐：支持无损音质播放\n• 音乐社区：评论互动，发现好音乐\n• 歌单分享：创建和分享个人歌单\n• 电台节目：丰富的音频内容和播客",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/netease_music.apk"
         },
         {
+          "id": 10,
           "name": "知乎",
+          "developer": "Zhihu Inc.",
           "icon": "https://img.icons8.com/color/48/000000/quora.png",
           "rating": 4.2,
           "downloads": "8000万+",
           "category": "社区",
+          "description": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于2011年1月正式上线，以「让人们更好地分享知识、经验和见解，找到自己的解答」为品牌使命。\n\n平台特点：\n• 知识问答：各领域专业人士分享知识和经验\n• 原创内容：高质量的文章和专栏\n• 热点讨论：关注社会热点，深度讨论\n• 专业领域：科技、商业、人文等多领域内容\n• 知识付费：Live讲座、付费咨询等服务",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/zhihu.apk"
         }
       ]
@@ -98,85 +174,84 @@
       "title": "热门游戏",
       "apps": [
         {
+          "id": 101,
           "name": "王者荣耀",
+          "developer": "Tencent Games",
           "icon": "https://img.icons8.com/color/48/000000/game-controller.png",
-          "rating": 4.5,
+          "rating": 4.6,
           "downloads": "5亿+",
-          "category": "游戏",
+          "category": "MOBA",
+          "description": "王者荣耀是腾讯第一5V5英雄公平对战手游，5V5王者峡谷、5V5深渊大乱斗、以及3V3、1V1等多样模式一键体验，海量英雄随心选择，精妙配合默契作战！\n\n游戏特色：\n• 5V5经典地图，三路推塔，呈现最原汁原味的对战体验\n• 英雄策略搭配，组建最强阵容，默契配合极限翻盘\n• 简单易上手，一血、五杀、超神，一战到底\n• 公平对战环境，靠技术决定成败，不靠装备",
           "screenshots": [
             "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=800&fit=crop",
-            "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=400&h=800&fit=crop"
+            "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=800&fit=crop"
           ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wzry.apk"
         },
         {
+          "id": 102,
           "name": "原神",
+          "developer": "miHoYo",
           "icon": "https://img.icons8.com/color/48/000000/anime.png",
-          "rating": 4.6,
+          "rating": 4.8,
           "downloads": "2亿+",
-          "category": "游戏",
+          "category": "RPG",
+          "description": "踏上「提瓦特」的幻想世界冒险！在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……\n\n游戏特点：\n• 攀爬跳跃等多样的交互，展现想去哪就去哪的冒险体验\n• 丰富的元素交互反应，带来超乎想象的战斗体验\n• 美妙的音乐伴随四季变化，描绘着风貌各异的世界\n• 实时多人游戏，与朋友们一同探索这个奇幻世界",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1606665297139-943c53c4bd6e?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/ys.apk"
         },
         {
+          "id": 103,
           "name": "和平精英",
+          "developer": "Tencent Games",
           "icon": "https://img.icons8.com/color/48/000000/sniper-rifle.png",
-          "rating": 4.3,
+          "rating": 4.4,
           "downloads": "3亿+",
-          "category": "游戏",
+          "category": "射击",
+          "description": "《和平精英》是腾讯光子工作室群自研打造的军事竞赛体验手游。虚幻引擎4研发，次世代完美画质，极致视听感受；8000Mx8000M超大地图，打造指尖战场，全方面自由施展战术；百人同场竞技，真实弹道，完美的射击手感。\n\n核心玩法：\n• 经典模式：海岛、沙漠、雨林、雪地四大经典地图\n• 创意工坊：丰富的娱乐模式，体验不同的游戏乐趣\n• 团队竞技：组队开黑，配合作战，吃鸡更简单\n• 自定义房间：创建专属房间，和朋友一起畅玩",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/hpjy.apk"
         },
         {
+          "id": 104,
           "name": "崩坏：星穹铁道",
+          "developer": "miHoYo",
           "icon": "https://img.icons8.com/color/48/000000/train.png",
-          "rating": 4.4,
+          "rating": 4.5,
           "downloads": "1亿+",
-          "category": "游戏",
+          "category": "RPG",
+          "description": "银河中某处，一列星穹列车正在群星间穿行。列车上的乘客来自不同的世界，他们或许是为了追寻逝去之人的足迹，或许是为了回到故乡，又或许是为了目睹某种壮景……你作为特殊的乘客，将与众多世界的居民一同踏上巡星之旅。\n\n游戏特色：\n• 开拓命途：银河漫游RPG，探索无尽的幻想世界\n• 策略战斗：属性克制+弱点击破的策略回合制战斗\n• 引人入胜：顶级声优阵容，好莱坞电影级世界设定\n• 沉浸体验：随时随地，沉浸在三维宇宙冒险中",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1606665297139-943c53c4bd6e?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/bhxq.apk"
         },
         {
+          "id": 105,
           "name": "英雄联盟手游",
+          "developer": "Riot Games",
           "icon": "https://img.icons8.com/color/48/000000/league-of-legends.png",
           "rating": 4.2,
           "downloads": "2亿+",
-          "category": "游戏",
+          "category": "MOBA",
+          "description": "英雄联盟正版手游，经典还原端游纯正体验。人气英雄，经典还原；峡谷传说，掌心再现；策略深度，硬核操作；团队配合，公平竞技。\n\n游戏特点：\n• 经典英雄：超过60位英雄，每个英雄都有独特技能\n• 5V5对战：经典的召唤师峡谷地图，熟悉的三路对抗\n• 策略深度：装备搭配、符文天赋、团队配合\n• 公平竞技：不卖属性，不卖战力，公平的游戏环境",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/lolm.apk"
-        }
-      ]
-    },
-    {
-      "title": "精选图书",
-      "apps": [
-        {
-          "name": "三体",
-          "icon": "https://img.icons8.com/color/48/000000/book.png",
-          "rating": 4.8,
-          "downloads": "100万+",
-          "category": "图书",
-          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/santi.apk"
-        },
-        {
-          "name": "活着",
-          "icon": "https://img.icons8.com/color/48/000000/open-book.png",
-          "rating": 4.7,
-          "downloads": "80万+",
-          "category": "图书",
-          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/huozhe.apk"
-        },
-        {
-          "name": "百年孤独",
-          "icon": "https://img.icons8.com/color/48/000000/library.png",
-          "rating": 4.6,
-          "downloads": "60万+",
-          "category": "图书",
-          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/bngd.apk"
-        },
-        {
-          "name": "人类简史",
-          "icon": "https://img.icons8.com/color/48/000000/history.png",
-          "rating": 4.5,
-          "downloads": "50万+",
-          "category": "图书",
-          "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/rljs.apk"
         }
       ]
     },
@@ -184,27 +259,51 @@
       "title": "实用工具",
       "apps": [
         {
+          "id": 201,
           "name": "WPS Office",
+          "developer": "Kingsoft Office",
           "icon": "https://img.icons8.com/color/48/000000/microsoft-word.png",
           "rating": 4.5,
-          "downloads": "2亿+",
+          "downloads": "4亿+",
           "category": "办公",
+          "description": "WPS Office是一款办公软件套装，可以实现办公软件最常用的文字、表格、演示等多种功能。具有内存占用低、运行速度快、体积小巧、强大插件平台支持、免费提供海量在线存储空间及文档模板。\n\n主要功能：\n• 文字处理：支持图文混排、表格、公式等复杂排版\n• 表格计算：支持数据统计、图表制作、透视表等\n• 幻灯片：丰富的动画效果和演示功能\n• PDF：查看、编辑、转换PDF文档\n• 云办公：多设备同步，随时随地办公",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1586281010493-53d467cea665?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/wps.apk"
         },
         {
+          "id": 202,
           "name": "百度地图",
+          "developer": "Baidu",
           "icon": "https://img.icons8.com/color/48/000000/map.png",
           "rating": 4.3,
-          "downloads": "3亿+",
-          "category": "导航",
+          "downloads": "5亿+",
+          "category": "地图导航",
+          "description": "百度地图是百度提供的一项网络地图搜索服务，覆盖了国内近400个城市、数千个区县。在百度地图里，用户可以查询街道、商场、楼盘的地理位置，也可以找到离您最近的所有餐馆、学校、银行、公园等等。\n\n核心服务：\n• 精准导航：专业的驾车、步行、公交路线规划\n• 实时路况：准确的实时路况信息，避开拥堵\n• 周边搜索：餐饮、购物、娱乐一网打尽\n• 离线地图：支持离线地图下载，无网络也能导航\n• 智能语音：语音导航，解放双手",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/baidu_map.apk"
         },
         {
+          "id": 203,
           "name": "腾讯视频",
+          "developer": "Tencent Technology",
           "icon": "https://img.icons8.com/color/48/000000/video.png",
           "rating": 4.2,
-          "downloads": "2亿+",
+          "downloads": "3亿+",
           "category": "视频",
+          "description": "腾讯视频是腾讯公司推出的网络视频播放平台，于2011年4月正式上线运营。腾讯视频致力成为中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、24小时多平台无缝应用体验以及快捷分享的产品特性，满足用户在线观看视频的需求。\n\n内容丰富：\n• 独播剧集：腾讯独家版权的热门电视剧和网剧\n• 电影大片：院线同步，海量高清电影资源\n• 综艺节目：热门综艺，明星真人秀\n• 动漫内容：国产动画，日韩动漫\n• 纪录片：优质纪录片，增长见识",
+          "screenshots": [
+            "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1489599459178-6af42dd8cead?w=400&h=800&fit=crop",
+            "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=400&h=800&fit=crop"
+          ],
           "downloadUrl": "https://github.com/Yusir0419/playstore/releases/download/v1.0.0/tencent_video.apk"
         }
       ]
